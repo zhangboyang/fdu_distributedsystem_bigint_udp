@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigIntClient", "BigIntClient\BigIntClient.vcproj", "{B6AAD918-A3A5-452A-98E4-CD6426065DF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigIntServer", "BigIntServer\BigIntServer.vcproj", "{2131648B-B5DE-4CE9-A782-5913BFCA5AE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleUDP", "SimpleUDP\SimpleUDP.vcproj", "{8E31F42A-422A-4778-943B-F0C2D32B3C47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigInt", "BigInt\BigInt.vcproj", "{621C2A1E-5AF0-40FC-8742-DA186F896307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6AAD918-A3A5-452A-98E4-CD6426065DF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6AAD918-A3A5-452A-98E4-CD6426065DF2}.Debug|Win32.Build.0 = Debug|Win32
+		{B6AAD918-A3A5-452A-98E4-CD6426065DF2}.Release|Win32.ActiveCfg = Release|Win32
+		{B6AAD918-A3A5-452A-98E4-CD6426065DF2}.Release|Win32.Build.0 = Release|Win32
+		{2131648B-B5DE-4CE9-A782-5913BFCA5AE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2131648B-B5DE-4CE9-A782-5913BFCA5AE0}.Debug|Win32.Build.0 = Debug|Win32
+		{2131648B-B5DE-4CE9-A782-5913BFCA5AE0}.Release|Win32.ActiveCfg = Release|Win32
+		{2131648B-B5DE-4CE9-A782-5913BFCA5AE0}.Release|Win32.Build.0 = Release|Win32
+		{8E31F42A-422A-4778-943B-F0C2D32B3C47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E31F42A-422A-4778-943B-F0C2D32B3C47}.Debug|Win32.Build.0 = Debug|Win32
+		{8E31F42A-422A-4778-943B-F0C2D32B3C47}.Release|Win32.ActiveCfg = Release|Win32
+		{8E31F42A-422A-4778-943B-F0C2D32B3C47}.Release|Win32.Build.0 = Release|Win32
+		{621C2A1E-5AF0-40FC-8742-DA186F896307}.Debug|Win32.ActiveCfg = Debug|Win32
+		{621C2A1E-5AF0-40FC-8742-DA186F896307}.Debug|Win32.Build.0 = Debug|Win32
+		{621C2A1E-5AF0-40FC-8742-DA186F896307}.Release|Win32.ActiveCfg = Release|Win32
+		{621C2A1E-5AF0-40FC-8742-DA186F896307}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
